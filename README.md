@@ -10,7 +10,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Francinah20&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  hey there, I'm Francinah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -18,4 +18,4 @@
 
 - 🌱 I’m currently learning Software Engineering at ALX and Web Development
 - 📫 How to reach me: francinahmarumo32@gmail.com
-- 😄 Pronouns: O-rah-tee-leh
+- 😄 Pronouns: Franc-ee-nah
