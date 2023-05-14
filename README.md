@@ -24,4 +24,4 @@
 
 - 🌱 I’m currently learning Software Engineering at ALX and Web Development
 - 📫 How to reach me: francinahmarumo32@gmail.com
-- 😄 Pronouns: Franc-ee-nah
+- 😄 Pronouns: she/her
