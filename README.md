@@ -23,5 +23,6 @@
 </div>
 </div>
 
+- 👀 I’m interested in Software Engineering.
 - 🌱 I am currently learning Software Engineering at ALX.
 - 📫 How to reach me: francinahmarumo32@gmail.com
