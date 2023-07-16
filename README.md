@@ -14,7 +14,7 @@
      <a href="https://https://www.facebook.com/0ratile?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-       <img src="https://komarev.com/ghpvc/?username=Francinah20&style=flat-square&color=blue" alt=""/>
+    
   <h1>
   hey there, I'm Francinah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -22,6 +22,5 @@
 </div>
 </div>
 
-- 🌱 I’m currently learning Software Engineering at ALX and Web Development
+- 🌱 I am currently learning Software Engineering at ALX.
 - 📫 How to reach me: francinahmarumo32@gmail.com
-- 😄 Pronouns: she/her
