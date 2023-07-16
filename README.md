@@ -18,6 +18,7 @@
   <h1>
   hey there, I'm Francinah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/o3lnnGQOSzeg5gBHEZ/giphy.gif" width="35px"/>
 </h1>
 </div>
 </div>
