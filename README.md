@@ -14,6 +14,9 @@
      <a href="https://https://www.facebook.com/0ratile?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://https://www.freecodecamp.org/OratileFrancinah">
+    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge"/>
+  </a>
     
   <h1>
   hey there, I'm Francinah
