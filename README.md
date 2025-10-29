@@ -26,6 +26,6 @@
 </div>
 </div>
 
-- 👀 I’m interested in Software Engineering.
-- 🌱 I am currently learning Software Engineering at ALX.
+- 👀 I’m interested in Self-impro-vision.
+- 🌱 I am currently learning Self-procurement at OctoPrep.
 - 📫 How to reach me: francinahmarumo32@gmail.com
